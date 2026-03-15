@@ -1,0 +1,39 @@
+[
+  {
+    "full_name": "Liberal Party of New Brunswick",
+    "address": "715 Brunswick Street Fredericton, NB E3B 1H8",
+    "email": "mailto:info@nbliberal.ca",
+    "phone": "(506) 453-3950",
+    "toll_free": "(800) 442-4902",
+    "fax": "(506) 453-2476",
+    "website": "https://nbliberal.ca"
+  },
+  {
+    "full_name": "Progressive Conservative Party of New Brunswick",
+    "address": "364 York Street, Suite 215 Fredericton, NB E3B 3P7",
+    "email": "mailto:info@pcnb.org",
+    "phone": "(506) 453-3456",
+    "fax": "(506) 444-4713",
+    "website": "https://www.pcnb.ca"
+  },
+  {
+    "full_name": "New Brunswick New Democratic Party",
+    "address": "P.O. Box 30048 Fredericton RPO Prospect Plaza, NB, E3B 0H8",
+    "email": "mailto:info@nbndp.ca",
+    "phone": "(506) 458-5828",
+    "website": "http://nbndp.ca/"
+  },
+  {
+    "full_name": "Parti Vert N.B. Green Party",
+    "address": "403 Regent Street, Suite 206 Fredericton, NB E3B 3X6",
+    "email": "mailto:info@greenpartynb.ca",
+    "phone": "(506) 447-8499",
+    "fax": "(506) 447-8489",
+    "website": "https://www.greenpartynb.ca/"
+  },
+  {
+    "full_name": "Libertarian Party of New Brunswick",
+    "email": "mailto:leader@lpnb.ca",
+    "website": "https://lpnb.ca/"
+  }
+]

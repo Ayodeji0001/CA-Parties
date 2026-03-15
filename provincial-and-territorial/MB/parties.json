@@ -1,0 +1,56 @@
+[
+  {
+    "full_name": "Communist Party of Canada - Manitoba (CPC-M)",
+    "short_name": "CPC-M",
+    "leader": "Andrew Taylor",
+    "address": "1141 Sherburn Street\nWinnipeg, MB R3E 2N3",
+    "phone": "(204) 586-7824",
+    "email": "manitoba@cpc-pcc.ca",
+    "website": "http://communist-party.ca/manitoba"
+  },
+  {
+    "full_name": "Green Party of Manitoba (GPM)",
+    "short_name": "GPM",
+    "leader": "Janine G. Gibson",
+    "address": "P.O. Box 26023, RPO Maryland\nWinnipeg, MB R3G 3R3",
+    "phone": "(204) 488-2831",
+    "email": "info@greenparty.mb.ca",
+    "website": "http://www.greenparty.mb.ca"
+  },
+  {
+    "full_name": "Keystone Party (KP)",
+    "short_name": "KP",
+    "leader": "Kevin Friesen",
+    "address": "P.O. Box 904\nGrunthal, MB R0A 0R0",
+    "phone": "(204) 392-9604",
+    "email": "info@keystonepartymb.ca",
+    "website": "http://keystonepartymb.ca"
+  },
+  {
+    "full_name": "Manitoba Liberal Party (MLP)",
+    "short_name": "MLP",
+    "leader": "Willard Reaves",
+    "address": "635 Broadway\nWinnipeg, MB R3C 0X1",
+    "phone": "(204) 988-9380",
+    "email": "executive.director@manitobaliberals.ca",
+    "website": "http://www.manitobaliberals.ca"
+  },
+  {
+    "full_name": "New Democratic Party of Manitoba (NDP)",
+    "short_name": "NDP",
+    "leader": "Wab Kinew",
+    "address": "878 Portage Avenue\nWinnipeg, MB R3G 0P1",
+    "phone": "(204) 987-4857",
+    "email": "info@mbndp.ca",
+    "website": "http://www.mbndp.ca"
+  },
+  {
+    "full_name": "The Progressive Conservative Party of Manitoba (PC)",
+    "short_name": "PC",
+    "leader": "Obby Khan",
+    "address": "640 - 5 Donald St\nWinnipeg, MB R3L 2T4",
+    "phone": "(204) 594-4080",
+    "email": "pcmanitoba@pcmanitoba.com",
+    "website": "http://www.pcmanitoba.com"
+  }
+]

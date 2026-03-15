@@ -1,0 +1,123 @@
+[
+  {
+    "party_name": "B.C. Vision",
+    "ballot_name": "B.C. Vision",
+    "leader": "Jagmohan Bhandari",
+    "contact_name": "Jagmohan Bhandari",
+    "address": "12127 101B Ave\nSurrey, BC V3V 7X6",
+    "phone": "(604) 328-5511",
+    "fax": "(604) 998-4480",
+    "email": "jbgogreen@gmail.com"
+  },
+  {
+    "party_name": "BC NDP",
+    "ballot_name": "BC NDP",
+    "leader": "David Eby",
+    "contact_name": "Tania Jarzebiak",
+    "address": "320-34 West 7th Ave\nVancouver, BC V5Y 1L6",
+    "phone": "(604) 430-8600",
+    "fax": "(778) 379-4842",
+    "email": "info@bcndp.ca"
+  },
+  {
+    "party_name": "BC United",
+    "ballot_name": "BC UNITED (Formerly BC Liberal Party)",
+    "leader": "Kevin Falcon",
+    "contact_name": "Ryan Bruce",
+    "address": "PO Box 28131\nVancouver, BC V6C 3T7",
+    "phone": "(604) 606-6000",
+    "fax": "(604) 632-0253",
+    "email": "contact@votebcunited.ca"
+  },
+  {
+    "party_name": "British Columbia Libertarian Party",
+    "ballot_name": "Libertarian",
+    "leader": "Alex Joehl",
+    "contact_name": "Dylan Davison",
+    "address": "204-3242 Westwood St\nPort Coquitlam, BC V3C 3L8",
+    "phone": "(236) 510-4921",
+    "email": "dylan.davison@libertarian.bc.ca"
+  },
+  {
+    "party_name": "CanWest Party",
+    "ballot_name": "CWP",
+    "leader": "Wei Ping Chen",
+    "contact_name": "Wei Ping Chen",
+    "address": "1107-11871 Horseshoe Way\nRichmond, BC V7A 5H5",
+    "phone": "(604) 880-5866",
+    "fax": "(604) 200-5177",
+    "email": "c6048805866@gmail.com"
+  },
+  {
+    "party_name": "Centre BC",
+    "ballot_name": "Centre BC",
+    "leader": "Karin Kirkpatrick",
+    "contact_name": "Karin Kirkpatrick",
+    "address": "1300-1500 West Georgia St\nVancouver, BC V6G 2Z6",
+    "phone": "(604) 817-6151",
+    "email": "contact@centrebc.ca"
+  },
+  {
+    "party_name": "Christian Heritage Party of British Columbia",
+    "ballot_name": "Christian Heritage Party of BC",
+    "leader": "Christian McCay",
+    "contact_name": "Ed Ewald",
+    "address": "19812 Telkwa High Rd\nSmithers, BC V0J 2N7",
+    "phone": "(250) 847-5464",
+    "email": "ebewald64@gmail.com"
+  },
+  {
+    "party_name": "Communist Party of BC",
+    "ballot_name": "Communist Party of BC",
+    "leader": "Kimball Cariou",
+    "contact_name": "Kimball Cariou",
+    "address": "706 Clark Dr\nVancouver, BC V5L 3J1",
+    "phone": "(604) 255-2041",
+    "email": "cpinfo.bc@gmail.com"
+  },
+  {
+    "party_name": "Conservative Party of British Columbia",
+    "ballot_name": "Conservative Party",
+    "leader": "Interim leader: Trevor Halford",
+    "contact_name": "Mark Robertson",
+    "address": "327-1434 Ironwood St\nCampbell River, BC V9W 5T5",
+    "phone": "(778) 231-3042",
+    "email": "mark.robertson@conservativebc.ca"
+  },
+  {
+    "party_name": "Freedom Party of British Columbia",
+    "ballot_name": "Freedom Party of BC",
+    "leader": "Amrit Birring",
+    "contact_name": "Amrit Birring",
+    "address": "9740 155A St\nSurrey, BC V3R 7G7",
+    "phone": "(778) 712-6242",
+    "email": "abirring@shaw.ca"
+  },
+  {
+    "party_name": "Green Party Political Association of British Columbia",
+    "ballot_name": "BC Green Party",
+    "leader": "Emily Lowan",
+    "contact_name": "Brunke Alex",
+    "address": "PO Box 8088 STN Central\nVictoria, BC V8W 3R7",
+    "phone": "(888) 473-3686",
+    "email": "alex.brunke@bcgreens.ca"
+  },
+  {
+    "party_name": "OneBC",
+    "ballot_name": "OneBC",
+    "leader": "Interim Leader: Dallas Brodie",
+    "contact_name": "Maria Kleiner",
+    "address": "262-5525 West Boulevard\nVancouver, BC V6M 3W6",
+    "phone": "(778) 320-7309",
+    "email": "kleiner.masha@gmail.com"
+  },
+  {
+    "party_name": "Party of Citizens Who Have Decided To Think For Ourselves & Be Our Own Politicians",
+    "ballot_name": "Party of Citizens",
+    "leader": "Gordon Watson",
+    "contact_name": "Gordon Watson",
+    "address": "4-5177 William Head Rd\nVictoria, BC V9C 4H5",
+    "phone": "(250) 391-1103",
+    "email": "watson.gordons@gmail.com"
+  }
+]
