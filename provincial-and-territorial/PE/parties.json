@@ -1,0 +1,40 @@
+[
+  {
+    "party_name": "Green Party of Prince Edward Island",
+    "leader": "Matthew MacFarlane",
+    "address": "81 Prince St. Charlottetown, PE  C1A 4R3",
+    "phone": "1-855-734-7336 Leader: Matthew MacFarlane",
+    "website": "https://www.greenparty.pe.ca/",
+    "logo_url": "https://www.electionspei.ca/sites/www.electionspei.ca/files/GP-PEI%20Green%20on%20White%202015.jpg"
+  },
+  {
+    "party_name": "Island Party of PEI",
+    "leader": "Mike McCormick",
+    "address": "PO Box 863 Montague, PE C0A 1R0 admin@islandparty.ca",
+    "website": "https://www.islandparty.ca/"
+  },
+  {
+    "party_name": "The Prince Edward Island Liberal Association Inc",
+    "leader": "Hal Perry",
+    "address": ". Box 2559, Charlottetown, PE  C1A 8C2",
+    "phone": "902-368-3449 Interim Leader: Hal Perry",
+    "website": "http://www.liberalpei.ca/",
+    "logo_url": "https://www.electionspei.ca/sites/www.electionspei.ca/files/Red%20logo%202015.png"
+  },
+  {
+    "party_name": "New Democratic Party of Prince Edward Island",
+    "leader": "Michelle Neill",
+    "address": "81 Prince Street, Charlottetown, PE C1A 4R3",
+    "phone": "902-892-1930 Leader: Michelle Neill",
+    "website": "https://www.ndppei.ca/",
+    "logo_url": "https://www.electionspei.ca/sites/www.electionspei.ca/files/NDPPEIlogo%202015.png"
+  },
+  {
+    "party_name": "Progressive Conservative Association of Prince Edward Island",
+    "leader": "Rob Lantz",
+    "address": "30 Pond Street, Unit B, Charlottetown, PE Box 578, Charlottetown, PE  C1A 7L1",
+    "phone": "902-628-8679 Leader: Rob Lantz",
+    "website": "http://www.peipc.ca/",
+    "logo_url": "https://www.electionspei.ca/sites/www.electionspei.ca/files/NEWPC_LOGO-01_2019.jpg"
+  }
+]
