@@ -1,0 +1,29 @@
+[
+  {
+    "party_name": "Yukon Liberal Party",
+    "leader": "Mike Pemberton",
+    "president": "Jason Cunning",
+    "address": "Box 2703 | Whitehorse, YT | Y1A 2C6 | Box 183 | 108 Elliott Street | Whitehorse, YT | Y1A 6C4",
+    "phone": "8673937418",
+    "email": "mike.pemberton@yukon.ca",
+    "website": "http://www.ylp.ca/"
+  },
+  {
+    "party_name": "Yukon Party",
+    "leader": "Currie Dixon",
+    "president": "Melanie Brais",
+    "address": "Box 2703 | Whitehorse, YT | Y1A 2C6 | Box 31113 | Whitehorse, YT | Y1A 5P7",
+    "phone": "8673937104",
+    "email": "currie.dixon@yla.gov.yk.ca",
+    "website": "https://www.yukonparty.ca/"
+  },
+  {
+    "party_name": "Yukon New Democratic Party",
+    "leader": "Kate White",
+    "president": "Jan Stick",
+    "address": "Box 2703 | Whitehorse, YT | Y1A 2C6 | Box 31516 | Whitehorse, YT | Y1A 6K8",
+    "phone": "8673937001",
+    "email": "kate.white@yla.gov.yk.ca",
+    "website": "https://yukonndp.ca/"
+  }
+]
